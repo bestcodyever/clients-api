@@ -10,7 +10,7 @@ _By the end of this breakout, you will be able to:_
 Use your project, or Fork and Clone this repo: https://github.com/coloradokim/clients-api
 
 ## Deploy to Heroku
-
+```heroku login```
 - Signup and login to heroku
 - Install the herkou CLI
 - Create a heroku app
