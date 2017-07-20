@@ -11,11 +11,21 @@ Use your project, or Fork and Clone this repo: https://github.com/coloradokim/cl
 
 ## Deploy to Heroku
 ```heroku login```
+
 - Signup and login to heroku
 - Install the herkou CLI
+
+```heroku create```
+
 - Create a heroku app
 - Push to heroku
+
+```git push heroku master```
+
 - Open the URL from the command line
+
+```heroku open```
+
 - View heroku logs
 
 ## Add Postgres DB to Heroku
